@@ -468,3 +468,11 @@ span{
 #section9 {
   position: relative;
 }
+
+#slide0 #prev {
+  opacity:0%;
+}
+
+#slide3 #next {
+  opacity: 0%;
+}
